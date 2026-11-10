@@ -2,7 +2,7 @@
 
 **Asignatura:** TCB304 – Infraestructura de Redes  
 **Unidad:** 2 – Infraestructura de redes de fibra óptica  
-**Actividad:** Evaluación Formativa U2 – Empalme de Fibra Óptica para Redes GPON y FTTx
+**Actividad:** Evaluación Formativa – Empalme de Fibra Óptica para Redes GPON y FTTx
 
 ---
 
