@@ -12,9 +12,9 @@ Durante el desarrollo de la actividad se identificarán los aspectos que facilit
 
 **Aspectos destacados:**
 
-- [Completar con los aspectos que resultaron satisfactorios].
-- [Completar con aprendizajes técnicos obtenidos].
-- [Completar con aspectos positivos del trabajo grupal].
+- Utilizamos las herramientas adecuadas las cuales facilitaron el proceso y ayudaron a que saliera todo bien
+- Aprendimos a usar las diferentes herramientas las cuales eran la primera vez que utilizábamos y eran muy intuitivas
+- El trabajo grupal fue ordenado y tuvimos buena organización, fue una actividad agradable de realizar
 
 ## 3. Dificultades identificadas
 
@@ -22,9 +22,9 @@ Se registrarán las dificultades presentadas durante la preparación, ejecución
 
 **Dificultades observadas:**
 
-- [Completar con las dificultades encontradas].
-- [Describir cómo fueron abordadas].
-- [Indicar si afectaron el procedimiento o sus resultados].
+- Lo más complicado fue hacer el corte lo más perfecto posible
+- Para poder hacerlo tuvimos que intentarlo varias veces y tener en cuenta sobre todo la limpieza
+- A pesar de eso, no nos obstruyo el completar la actividad correctamente
 
 ## 4. Oportunidades de mejora
 
@@ -40,7 +40,7 @@ Entre los aspectos que podrán considerarse se encuentran:
 
 ## 5. Reflexión grupal
 
-[Completar con una reflexión conjunta sobre los aprendizajes obtenidos, la importancia del empalme por fusión en las redes de telecomunicaciones y la experiencia adquirida durante la actividad].
+Siento que como actividad para realizar en clases fue muy buena ya que fue nuestro primer encuentro directo con la fibra, las herramientas y la fusionadora de muchos, pero aun asi no se nos complico mas de la cuenta al contar con las herramientas, la guia y la libertad de intentarlo tranquilos y sin presion, siento que fue una actividad muy buena y recreativa
 
 ## 6. Conclusión
 
