@@ -10,13 +10,12 @@ Esta etapa considera la inspección visual del empalme, la revisión de los valo
 
 La inspección visual permite observar las condiciones generales del empalme realizado, considerando aspectos como la alineación de los extremos de fibra, la uniformidad de la unión y la correcta instalación del manguito protector.
 
-Asimismo, se verifica que el empalme se encuentre correctamente dispuesto en su bandeja, evitando curvaturas excesivas o tensiones sobre la fibra.
+Asimismo, se verifica que el empalme se encuentre correctamente dispuesto en su bandeja (no utilizado en esta actividad), evitando curvaturas excesivas o tensiones sobre la fibra.
 
 ### Registro visual
 
-[Insertar fotografía del empalme terminado]
+El empalme se vio correcto y sin ninguna parte del nucleo expuesta
 
-*Figura 1. Inspección visual del empalme de fibra óptica.*
 
 ## 3. Comprobación mediante instrumentos
 
@@ -30,8 +29,8 @@ Este valor permite realizar una evaluación inicial de la calidad de la unión, 
 
 **Registro de la estimación:**
 
-- Pérdida estimada: [Completar] dB.
-- Observaciones: [Completar].
+- Pérdida estimada: 0.01 dB.
+- Observaciones: Aceptable.
 
 ### 3.2. Medición del enlace
 
@@ -39,10 +38,10 @@ Cuando se dispone de instrumentos de comprobación, se puede evaluar el desempe�
 
 **Registro de medición:**
 
-- Instrumento utilizado: [Completar].
-- Método de comprobación: [Completar].
-- Resultado obtenido: [Completar].
-- Observaciones: [Completar].
+- Instrumento utilizado: n/a
+- Método de comprobación: n/a
+- Resultado obtenido: n/a
+- Observaciones: n/a
 
 ## 4. Registro de resultados
 
@@ -50,27 +49,23 @@ Los resultados obtenidos durante la actividad serán registrados en la siguiente
 
 | Parámetro | Resultado | Observaciones |
 |---|---|---|
-| Inspección visual | [Completar] | [Completar] |
-| Estimación de pérdida de fusión | [Completar] dB | [Completar] |
-| Comprobación del enlace | [Completar] | [Completar] |
-| Estado del empalme | [Completar] | [Completar] |
+| Inspección visual | Correcto | Se ve bien cubierto y fusionado |
+| Estimación de pérdida de fusión | 0.01 dB | Aceptable para esta actividad |
+| Comprobación del enlace | n/a | n/a |
+| Estado del empalme | Bueno | Bien realizado y correcto |
 
 ## 5. Evidencias de comprobación
 
 ### 5.1. Resultado de la fusionadora
 
-[Insertar fotografía de la pantalla de resultados de la fusionadora]
+La fusionadora nos arrojó 0.01 dB de perdida, lo cual es bueno para esta actvidad
 
-*Figura 2. Resultado estimado del empalme proporcionado por la fusionadora.*
 
 ### 5.2. Instrumentos de comprobación
 
-[Insertar fotografía del instrumento utilizado durante las pruebas]
+No utilizamos para esta actividad
 
-*Figura 3. Instrumento empleado para la comprobación del enlace.*
 
 ## 6. Observaciones y análisis
 
-En esta sección se analizarán los resultados obtenidos durante la comprobación del empalme, considerando su calidad visual, los valores registrados y las posibles dificultades identificadas durante el procedimiento.
-
-Asimismo, se indicarán posibles errores, desviaciones o aspectos que podrían mejorarse en futuras ejecuciones de la actividad.
+Todo salió según lo previsto y sin complicaciones, tanto la fusion como todo lo demás fue bien y seguramente ejecutado
