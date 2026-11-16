@@ -52,33 +52,29 @@ Posteriormente, se utiliza el sistema de calentamiento de la fusionadora para co
 
 Finalmente, el empalme protegido se coloca cuidadosamente en su bandeja correspondiente, evitando curvaturas excesivas o tensiones sobre la fibra.
 
-## 5. Registro visual del procedimiento
+## 5. Registro del procedimiento
 
 ### 5.1. Preparación de la fibra
 
-[Insertar fotografía de la fibra durante su preparación]
+Primero pelamos el cable troncal, limpiamos y quitamos todo hasta solo dejar el cable azul el cual es el que tiene los pelos de fibra en su interior, el cual procedemos a cortar para manipularlo durante esta actividad, el cual pelamos, retiramos un pelo de la fibra y pocedimos a quitar su recubrimiento, cortar con la herramienta de corte de precision y lo limpiamos
 
-*Figura 1. Preparación y corte de precisión de la fibra óptica.*
 
 ### 5.2. Posicionamiento en la fusionadora
 
-[Insertar fotografía de las fibras posicionadas en la fusionadora]
+La fusionadora se colocó en un lugar estable y donde se pudiera poner sin estorbar ya que igual tiene un tamaño medio y al ser una tarea de precision requiere que se haga comodamente
 
-*Figura 2. Posicionamiento de los extremos de fibra previo a la fusión.*
 
 ### 5.3. Ejecución de la fusión
 
-[Insertar fotografía de la fusionadora durante el procedimiento]
+Durante la fusion acomodamos los dos extremos de la fibra previamente cortados y limpios para proceder a la fusion
 
-*Figura 3. Ejecución del empalme por fusión.*
 
 ### 5.4. Protección del empalme
 
-[Insertar fotografía del empalme con su manguito protector]
+Colocamos los extremos en la fusionadora, pusimos los seguros y procedimos a presionar el botón verde
 
-*Figura 4. Protección mecánica del empalme realizado.*
 
 ## 6. Observaciones del procedimiento
 
-En esta sección se incorporarán observaciones relacionadas con la ejecución del empalme, la precisión de los cortes, la alineación de las fibras y las dificultades identificadas durante el procedimiento práctico.
+Todo se realizo bien y por ende dio una baja perdida y sin ninguna complicación
 
