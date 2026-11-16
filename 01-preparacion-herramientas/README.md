@@ -14,7 +14,7 @@ En esta sección se describen las herramientas e instrumentos necesarios para re
 | Peladora de fibra óptica | Retirar los recubrimientos de la fibra para exponer el vidrio. | Permite preparar la fibra sin dañar innecesariamente su estructura. |
 | Cortadora de precisión (Cleaver) | Realizar un corte perpendicular y uniforme en la fibra. | Favorece una correcta alineación y fusión de los extremos. |
 | Material de limpieza | Eliminar residuos y contaminantes de la fibra expuesta. | Evita que las impurezas afecten la calidad del empalme. |
-| Tubo termoretractil | Proteger mecánicamente la unión una vez realizada la fusión. | Reduce el riesgo de daños y roturas en la zona empalmada. |
+| Tubo termorretractil | Proteger mecánicamente la unión una vez realizada la fusión. | Reduce el riesgo de daños y roturas en la zona empalmada. |
 | Bandeja de empalme | Organizar y mantener protegidos los empalmes. | Permite conservar las fibras ordenadas y respetar sus radios de curvatura. |
 | Instrumentos de comprobación | Evaluar el funcionamiento y las pérdidas del enlace. | Permiten verificar preliminarmente el desempeño del empalme realizado. |
 
