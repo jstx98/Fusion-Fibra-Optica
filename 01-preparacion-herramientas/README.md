@@ -15,7 +15,7 @@ En esta sección se describen las herramientas e instrumentos necesarios para re
 | Cortadora de precisión (Cleaver) | Realizar un corte perpendicular y uniforme en la fibra. | Favorece una correcta alineación y fusión de los extremos. |
 | Material de limpieza | Eliminar residuos y contaminantes de la fibra expuesta. | Evita que las impurezas afecten la calidad del empalme. |
 | Tubo termorretractil | Proteger mecánicamente la unión una vez realizada la fusión. | Reduce el riesgo de daños y roturas en la zona empalmada. |
-| Bandeja de empalme | Organizar y mantener protegidos los empalmes. | Permite conservar las fibras ordenadas y respetar sus radios de curvatura. |
+| Bandeja de empalme (no utilizada por esta vez) | Organizar y mantener protegidos los empalmes. | Permite conservar las fibras ordenadas y respetar sus radios de curvatura. |
 | Instrumentos de comprobación | Evaluar el funcionamiento y las pérdidas del enlace. | Permiten verificar preliminarmente el desempeño del empalme realizado. |
 
 ## 3. Seguridad y prevención de riesgos
