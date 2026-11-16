@@ -39,21 +39,20 @@ Esta distribución facilita el desarrollo ordenado de las distintas etapas del e
 
 ## 5. Registro visual
 
-Las siguientes evidencias serán incorporadas posteriormente, una vez realizada nuevamente la actividad práctica.
 
 ### 5.1. Herramientas e instrumentos
 
-[Insertar fotografía de las herramientas e instrumentos utilizados]
-
-*Figura 1. Herramientas y materiales empleados en el empalme de fibra óptica.*
+Cable de fibra
+Peladores de cable
+Cortadora de precision
+Fusionadora
+Tubos termorretráctiles
 
 ### 5.2. Organización del espacio de trabajo
 
-[Insertar fotografía de la disposición del espacio de trabajo]
+Utilizamos una mesa del aula para realizar todo el procedimiento, juntando los residuos en un lado y trabajando comodamente en el resto
 
-*Figura 2. Organización del espacio de trabajo previo a la ejecución del empalme.*
 
 ## 6. Observaciones
 
-En esta sección se incorporarán observaciones relacionadas con el uso de las herramientas, la organización del espacio de trabajo y las dificultades identificadas durante la preparación de la actividad.
-
+Se tuvo que tener especial cuidado al manipular la fibra y tambien las herramientas, por lo que tuvimos que usar calzado de seguridad, guantes y antiparras para resguardarnos lo maximo posible, se trabajo en un espacio comodo y no hubo ningun inconveniente al realizar la fusion en clases
