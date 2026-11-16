@@ -37,7 +37,7 @@ La fusionadora debe ubicarse sobre una superficie estable, mientras que las herr
 
 Esta distribución facilita el desarrollo ordenado de las distintas etapas del empalme, disminuye el riesgo de contaminación de la fibra y permite utilizar los materiales de manera eficiente.
 
-## 5. Registro visual
+## 5. Registro de herramientas y organizacion del espacio
 
 
 ### 5.1. Herramientas e instrumentos
