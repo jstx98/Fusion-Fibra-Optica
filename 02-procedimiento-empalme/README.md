@@ -54,8 +54,6 @@ Finalmente, el empalme protegido se coloca cuidadosamente en su bandeja correspo
 
 ## 5. Registro visual del procedimiento
 
-Las siguientes evidencias serán incorporadas posteriormente, una vez realizada nuevamente la actividad práctica.
-
 ### 5.1. Preparación de la fibra
 
 [Insertar fotografía de la fibra durante su preparación]
